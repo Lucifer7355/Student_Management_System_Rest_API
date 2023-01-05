@@ -13,7 +13,7 @@
 ```
 ---
 # The Entity Relation Diagram for the project is as follows:-
-
+# **ER_Diagram**
 ![ER_Diagram](https://github.com/Lucifer7355/Student_Management_System_Rest_API/blob/main/Entity_Relation_Diagram.jpg)
 
 ```
