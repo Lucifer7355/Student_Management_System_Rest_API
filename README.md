@@ -9,8 +9,13 @@
 - Spring Data JPA
 - app.diagrams.net
 - Postman
+- Spring Tool Suite 4
 ```
 ---
 # The Entity Relation Diagram for the project is as follows:-
 
 ![ER_Diagram](https://github.com/Lucifer7355/Student_Management_System_Rest_API/blob/main/Entity_Relation_Diagram.jpg)
+
+```
+Run the project and change the port on which you want server to run from applications.properties files and make request using postman.
+```
